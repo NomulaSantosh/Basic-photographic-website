@@ -3,4 +3,4 @@ This is a prototype of a photographic website.It is a open source website.My con
 
 # Contributions :
  * HTML CSS - Santosh
- * JS - Naveen
+ * JS - https://github.com/Naveen-Karanamu
